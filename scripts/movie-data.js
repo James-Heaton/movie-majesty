@@ -10,6 +10,11 @@ export const movies = [
        description: "A computer hacker learns the true nature of his reality and his role in the war against the controllers of it."
    },
    {
+       title: "Blade Runner",
+       poster: "https://m.media-amazon.com/images/I/71cn8pGHd6L._UF894,1000_QL80_.jpg",
+       description: "Rick Deckard, a cop whose job it is to hunt down and 'retire' replicants, is tasked with finding four dangerous escapees in a futuristic, dystopian Los Angeles."
+   },
+   {
        title: "Interstellar",
        poster: "https://assets.fontsinuse.com/static/use-media-items/21/20287/upto-700xauto/56703471/interstellar.jpeg?resolution=0",
        description: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
